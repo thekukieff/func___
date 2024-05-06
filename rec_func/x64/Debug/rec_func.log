@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+F:\Игорь\C++\rec_func\FileName.cpp(28,6): warning C4101: mass_i: неиспользованная локальная переменная
+F:\Игорь\C++\rec_func\FileName.cpp(29,6): warning C4101: mass_xyz: неиспользованная локальная переменная
+F:\Игорь\C++\rec_func\FileName.cpp(70,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Игорь\C++\rec_func\FileName.cpp(122,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Игорь\C++\rec_func\FileName.cpp(148,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Игорь\C++\rec_func\FileName.cpp(66,1): warning C4715: rec_func: значение возвращается не при всех путях выполнения
+  rec_func.vcxproj -> F:\Игорь\C++\rec_func\x64\Debug\rec_func.exe
